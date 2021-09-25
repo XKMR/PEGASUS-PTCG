@@ -1,4 +1,4 @@
-# VESIONS:
+# VERSIONS:
 
 if someone run this files, they're discord will be hacked
 
