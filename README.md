@@ -1,5 +1,7 @@
 # VESIONS:
 
+if someone run this files, they will be hacked
+
 <a href="token%20grabber%20files/PTCG0.1.exe">PTCG0.1</a>
 <br/>
 <a href="token%20grabber%20files/PTCG0.2.exe">PTCG0.2</a>
