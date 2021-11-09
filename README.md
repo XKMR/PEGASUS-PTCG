@@ -30,4 +30,5 @@ skipped
 <br/>
 <a href="token%20grabber%20files/PTCG1.4.exe">PTCG1.4</a>
 <br/>
+last version: <a href="token%20grabber%20files/PGTCG2.4.exe">PGTCG2.4</a>
 <a href="token%20grabber%20files">newer...</a>
